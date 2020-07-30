@@ -70,19 +70,50 @@ h1{
 
 @media (max-width: 1050px){
   #formulario{
-    padding-left: 0%;
+    padding-left: 25%;
     margin-top: 5%;
     margin-bottom: 5%;
   }
 
   #respuestan{
-    padding-left: 0%;
+    padding-left: 25%;
     margin-top: 5%;
     margin-bottom: 5%;
   }
 
   #respuestap{
-    padding-left: 0%;
+    padding-left: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+  .titulo{
+    background-color: white;
+    font-family: 'Permanent Marker', cursive;
+    padding-left: 01rem;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color : #d92027;
+      margin-left: 0;
+  }
+
+}
+
+@media (max-width: 700px){
+  #formulario{
+    padding-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+  #respuestan{
+    padding-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+  #respuestap{
+    padding-left: 10%;
     margin-top: 5%;
     margin-bottom: 5%;
   }
